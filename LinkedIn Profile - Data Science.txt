@@ -1,0 +1,21 @@
+Data Scientist student at Thinkful
+
+Data science novice with extensive with effective training and skills in 
+Python, SQL, data visualization, analytics, predictive modeling, supervised and unsupervised 
+machine learning, neural networks, Natural Language Processing and experimental design. 
+
+I have a proven track record of experience in project management, business analyst, and computer
+science. My data science education coupled with my analysis and technology background 
+makes me multi-facet professional that can leverage my skillset in various industries or
+disciplines. In addition, I have demonstrated experience with using extremely large, 
+complex data sets to draw conclusions and effectively communicate findings with both 
+technical and non-technical team members.
+
+Skills :- Data Analysis using Python and Excel, Data Cleaning, SQL, Python, Pandas, NumPy, 
+Seaborn, Matplotlib, Sci-Kit Learn, T-Tests, A/B Testing, Machine Learning(Naive Bayes, 
+Linear regression, KNN classifier / regression, decision trees, random forests, logistic 
+regression, ridge regression, LASSO regression, support vector machines, gradient boosting 
+models, Clustering), Time Series Forecasting methods (ARIMA, SARIMA, AUTO_ARIMA, Prophet)
+
+Portfolio URL- https://github.com/karenmmcgee/Thinkful-Capstone-Projects
+
