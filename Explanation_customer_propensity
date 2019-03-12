@@ -1,0 +1,16 @@
+Steps I followed when creating the model that shows a customer’s propensity for joining the loyalty program:
+
+1.	Stored the file into a data frame
+2.	Begin to perform analysis on the file such as determining if we have missing values.
+3.	Generated numeric values for all of the categorical columns. This was done to ensure the model has the data in the correct format for processing. 
+4.	Reviewed statistical information to ensure the data was normalized before running this in a model. 
+5.	Identify outliers and review the data of outliers to determine if I should make a change. I noticed that I have negative values but I have quite a few of them so I decided to keep them instead of removing the rows. 
+6.	Review more information about the data for loyal customers with positive transactions and those with negative transactions. 
+7.	Create my X and Y variables
+8.	Create a correction table to see if any of my variables are correlated before using them in the model (they are not correclated). 
+9.	Create your X and Y test/train spilt that will be used with the models
+10.	Generate three models: 
+    a.	 Logistic regression
+    b.	Decision Tree
+    c.	Stochastic gradient descent
+The models will help determine if the likely hood of customer propensity to join the loyalty program. 
